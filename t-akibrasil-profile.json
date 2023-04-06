@@ -1,0 +1,20 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T09:59:32Z",
+  "IdClaims": [
+    {
+      "Claim": "t:akibrasil"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "14476244854e4f65ba00cf75",
+    "Timestamp": "2023-04-06T11:00:23Z",
+    "Signature": "4e66865cf39392416ed5296cbd8d00c67ec4d682c3cf8803929f1de1c30607503fbf5d696097b21028d035502fe3a2da4fd260a019d7b7712f91678daaefdb2b2541f93d6ff0081ea289a7d403348d4abca8fdd623ee63e19c1ffd564267702cea225d52d6a23f18385bd91f84cd0f055ffaa41c8b78107d2bdb367e219c09b238dbdc73b5c4c9ebbdba84829ee4550852189d1548784d567f5345ccba49865c6687de43693e7f50d4fa93754e37e1e8fc687a9a5d1d126df04626e87ac01cbc1883fa40b83bcb3a58ba345c2fea3e9dc8b1354e1e830673c9bf415d54aa8632fa130eaceb9ea7cb36684a1880cfad8617b1369e13c6c20335de1f2b715d07be"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "5b1e42f49332da0ed9fed32fdefc43a821c7cb59580bc83ca8e7b3ffe291d8a5",
+  "ContentToHash": "v1|t:akibrasil|2023-04-06T09:59:32Z"
+}
